@@ -1,0 +1,43 @@
+[
+    {
+      "id": "b28c1181-3ce0-4a2e-b44a-2e87bac90921",
+      "title": "Movie 1",
+      "subtitle": "Title of Movie 1",
+      "description": "Description of Movie 1",
+      "imageUrl": "./1.jpg",
+      "ratings": [2, 4, 5, 1, 2]
+    },
+    {
+      "id": "0e7b012f-f342-4a45-b7f5-86c85f3fc3af",
+      "title": "Movie 2",
+      "subtitle": "Title of Movie 2",
+      "description": "Description of Movie 2",
+      "imageUrl": "./2.jpg",
+      "ratings": [4, 5, 3]
+    },
+    {
+      "id": "0ed0dd3d-8816-4ee5-aa07-c52b4ea30ce0",
+      "title": "Movie 3",
+      "subtitle": "Title of Movie 3",
+      "description": "Description of Movie 3",
+      "imageUrl": "./3.jpg",
+      "ratings": [3, 5, 2, 4]
+    },
+    {
+      "id": "4cc30aa5-ebc1-444c-8e5a-718fc8eb1619",
+      "title": "Movie 4",
+      "subtitle": "Title of Movie 4",
+      "description": "Description of Movie 4",
+      "imageUrl": "./4.jpg",
+      "ratings": [2, 4, 3, 2]
+    },
+    {
+      "id": "27621b97-26b4-4f9b-b13f-66dee4606134",
+      "title": "Movie 5",
+      "subtitle": "Title of Movie 5",
+      "description": "Description of Movie 5",
+      "imageUrl": "./5.jpg",
+      "ratings": [5, 2, 4, 3]
+    }
+  ]
+  
